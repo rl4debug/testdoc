@@ -15,4 +15,4 @@ To use this template, simply update it::
 
 .. Note::
 
-haha do you know
+	haha do you know
