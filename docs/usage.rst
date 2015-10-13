@@ -12,3 +12,7 @@ To use this template, simply update it::
 
 
 <p style='color: red'>khong can phai lo lang gi ca</p>
+
+.. Note::
+
+haha do you know
