@@ -9,3 +9,6 @@ To use this template, simply update it::
 	cai gi nhi
 **hehe
 	*haha
+
+
+<p style='color: red'>khong can phai lo lang gi ca</p>
